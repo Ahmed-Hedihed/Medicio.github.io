@@ -1,0 +1,1009 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+	
+    font-family: 'Open Sans', sans-serif;
+}
+
+.bg-color {
+	
+	background-color: #666;
+	
+}
+
+.fa-check {
+	
+	color: #62a50f;
+	
+}
+
+.fa-close {
+	
+	color: #f00;
+	
+}
+
+ul li {
+	
+	list-style: none;
+	
+}
+
+ul li a:hover {
+	
+	text-decoration: none;
+	
+}
+
+/** Start Call Us Section **/
+
+.call-us {
+	
+	background-color: #3fbbc0;
+	color: #fff;
+	text-transform: uppercase;
+	padding-top: 13px;
+	padding-bottom: 13px;
+	font-weight: 600
+	
+}
+
+.call-us p {
+	
+	display: inline-block;
+	
+}
+
+
+
+/** EndCall Us Section **/
+
+
+/** Start Navbar Section **/
+
+
+.navbar {
+	
+	font-weight: 600;
+	text-transform: uppercase;
+	background-color: #fff;
+	
+}
+
+.navbar .m-style {
+	
+    font-size: 25px;
+    font-weight: bold;
+    color: #3fbbc0;
+	border: 2px solid #3fbbc0;
+	padding-right: 4px;
+	padding-left: 4px;
+	margin-right: 2px;
+	
+}
+
+.navbar-default .navbar-nav>li>a:hover {	
+	
+	color: #3fbbc0;
+	-webkit-transition: all 0.5s ease-in-out;
+	-moz-transition: all 0.5s ease-in-out;
+	-o-transition: all 0.5s ease-in-out;
+	transition: all 0.5s ease-in-out;
+	
+}
+
+
+.navbar-default .navbar-nav>.active1>a, .navbar-default .navbar-nav>.active1>a:focus, .navbar-default .navbar-nav>.active1>a:hover {
+	color: #3fbbc0;
+}
+
+
+/** End Navbar Section **/
+
+
+/** Start Header Section **/
+
+
+.header {
+	
+	background: url("../images/header-bg.png");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -webkit-background-size: cover;
+	margin-top: -20px;	
+	color: #161617;
+	
+}
+
+.header-overlay {	
+	
+	color: rgba(68, 68, 68 , 0.9);
+	width: 100%;
+	height: 100%;
+
+	
+}
+
+.header-info h2, .header-info .desc {
+	
+	font-weight: 600;
+	text-transform: uppercase;
+	
+}
+
+.header-info h2 {
+	
+	font-weight: 700;
+	padding-top: 25px;
+	
+}
+
+.header-info p {
+	
+	font-size: 17px;
+	
+}
+
+.header-info .p-style {
+	
+	color: #3fbbc0;
+	
+}
+
+.header-item {
+	
+	background: rgba(253, 253, 253, 0.8);
+	border-radius: 5px;
+	padding: 20px;
+	margin-top: 30px;
+    margin-bottom: 70px;
+	
+}
+
+.header-item .item {
+	
+	overflow: hidden;
+	
+}
+
+.header-item .item i {
+	
+	float: left;
+	margin-right: 20px;
+	font-size: 20px;
+	color: #6bac1f;
+	margin-top: 20px;
+	
+}
+
+.header-item .item .info {
+	
+	float: left;
+
+}
+
+.header-item .item .info h3 {
+	
+	font-weight: 600;
+	
+}
+
+.make-appo {
+	
+	background-color: #fff;
+	margin-top: 50px;
+	
+	
+}
+
+.make-appo .make-title {
+	
+	background-color: #444;
+	color: #fff;
+	overflow: hidden;
+	padding-left: 20px;
+	padding-top: 15px;
+	padding-bottom: 5px;
+	
+}
+
+.make-appo .make-title i {
+	
+	float: left;
+	margin-right: 15px;
+	font-size: 20px;
+	
+	
+}
+
+.make-appo .make-title p {
+	
+	float: left;
+	font-weight: bold;
+	
+}
+
+.make-appo .make-title .free {
+	
+	color: #756F84;
+	
+}
+
+.make-appo .make-form {
+	
+	padding: 20px;
+	padding-top: 40px;
+	
+}
+
+.make-appo .make-form form input {
+	
+	font-style: italic;
+	
+}
+
+.make-appo .make-form form button {
+	
+    height: 40px;
+    background-color: #3fbbc0;
+    border: none;
+    color: #fff;
+    font-size: 17px;
+    font-weight: 600;
+    text-transform: uppercase;
+	
+}
+
+
+.make-appo .make-form form p {
+	
+    margin-top: 20px;
+    margin-bottom: 0;
+	font-weight: 600;
+	
+}
+
+
+/** End Header Section **/
+
+/** Start Our Services Section **/
+
+
+.our-services {
+	
+	margin-top: 70px;
+	margin-bottom: 70px;
+	
+}
+
+.our-services .service-box i {
+	
+    font-size: 30px;
+    color: #fff;
+    background-color: #3fbbc0;
+    width: 70px;
+    height: 70px;
+    line-height: 70px;
+    border-radius: 50%;
+	
+}
+
+.our-services .service-box h3 {
+	
+	font-weight: 600;
+	margin-top: 20px;
+	margin-bottom: 30px;
+	
+}
+
+.our-services .service-box p {
+	
+	color: #929292;
+	font-weight: 600;
+	
+}
+
+/** End Our Services Section **/
+
+
+
+/** Start help-section Section **/
+
+.help-section {
+	
+	margin-top: 70px;
+	margin-bottom: 70px;
+	
+}
+
+.help-section .help-box {
+	
+	background-color: #fafafa;
+    background-color: #fafafa;
+    padding: 25px;
+    box-shadow: 0 1px 0px 0 rgba(0, 0, 0, 0.2), 0 2px 20px 0 rgba(0, 0, 0, 0.19);
+	
+}
+
+.help-btn {
+	
+	margin-top: 35px;
+	
+}
+
+.help-btn a {
+	
+	background-color: #3fbbc0;
+    color: #fff;
+    padding: 12px;
+    border-radius: 5px;
+	text-decoration: none;
+	
+}
+
+.help-btn a:hover {
+	
+	cursor: pointer;
+	
+}
+
+
+/** End help-section Section **/
+
+
+/** Start Nursing Section **/
+
+
+
+.nursing {	
+
+	margin-bottom: 70px;
+	padding: 30px;
+	
+}
+
+.nursing .nursing-img img {
+	
+	height: 100%;
+	
+}
+
+
+.nursing .nursing-content .nursing-item {
+	
+	overflow: hidden;
+	margin-top: 20px;
+	
+}
+
+.nursing .nursing-content .nursing-item i {
+	
+	float: left;
+	
+}
+
+.nursing .nursing-content .nursing-item .nursing-desc {
+	
+	float: left;
+	margin-left: 10px;
+	
+}
+
+.nursing .nursing-content .nursing-item .nursing-desc h4 {
+	
+	font-weight: bold;
+	color: #666;
+	
+	
+}
+
+.nursing .nursing-content .nursing-item  i {
+	
+	font-size: 38px;
+	color: #3fbbc0;
+	
+}
+
+
+/** End Nursing Section **/
+
+
+/** Start Doctors Section **/
+
+.doctors {
+	
+	background-color: #fafafa;
+	padding-top: 20px;
+	padding-bottom: 40px;
+	
+}
+
+.doc-desc h2 {
+	
+	font-weight: 600;
+	
+}
+
+.doc-desc p {
+	
+	color: #555;
+	
+}
+
+.doc-desc p::after { 
+	
+    content: "";
+	display: block;
+	margin: 10px auto;
+	width: 60px;
+	height: 2px;
+    background-color: #3fbbc0;
+}
+
+.doc-filter ul {
+	
+	margin-bottom: 50px;
+	margin-top: 40px;
+	
+}
+
+.doc-filter ul li {
+	
+	list-style: none;
+	display: inline-block;
+	margin-right: 10px;
+	color: #666;
+	font-weight: 600;
+	background-color: #fff;
+	border: 1px solid #555;
+	border-radius: 2px;
+	padding: 5px;
+	-webkit-transition: all 0.5s ease-in-out;
+	-moz-transition: all 0.5s ease-in-out;
+	-o-transition: all 0.5s ease-in-out;
+	transition: all 0.5s ease-in-out;
+	
+}
+
+.doc-filter ul li:hover {
+	
+	color: #fff;
+	background-color: #3fbbc0;
+	border: 1px solid #3fbbc0;
+	cursor: pointer;
+	
+}
+
+
+.pers-info img {	
+	
+	-webkit-box-shadow: 0px 3px 20px -6px;
+	-moz-box-shadow: 0px 3px 20px -6px;
+	-o-box-shadow: 0px 3px 20px -6px;
+	box-shadow: 0px 3px 20px -6px;
+	
+}
+
+
+.pers-info h3 {
+	
+    font-size: 18px;
+    font-weight: bold;
+    color: #3fbbc0;
+	
+}
+
+.pers-info p {
+	
+	color: #888;
+	font-weight: 600;
+	
+}
+
+.doc-filter ul .active {
+	
+	background-color: #3fbbc0;
+	color: #fff;
+	
+}
+
+
+/** End Doctors Section **/
+
+
+/** Start Facilities Section **/
+
+
+.facilities {
+	
+	margin-top: 70px;	
+}
+
+.facilities p {
+	
+	margin-bottom: 70px;
+	
+}
+
+
+.bx-wrapper img {
+	
+	width: 300px;
+	
+}
+
+.bx-wrapper .bx-pager.bx-default-pager a.active, .bx-wrapper .bx-pager.bx-default-pager a:focus, .bx-wrapper .bx-pager.bx-default-pager a:hover {
+	
+	background-color: #3fbbc0;
+	
+}
+
+.facilities .bx-pager-item:nth-of-type(4), .bx-pager-item:nth-of-type(5), .bx-pager-item:nth-of-type(3) {
+	
+	display: none;
+	
+}
+
+/** End Facilities Section **/
+
+
+/** Start Testimonials Section **/
+
+
+
+.testim {
+	
+	background: url("../images/testim-bg.png");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -webkit-background-size: cover;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	padding-top: 65px;
+	padding-bottom: 40px;
+	
+	
+}
+
+.testim .person .person-info {
+	
+	background-color: #fff;
+	margin-bottom: 50px;
+	padding: 15px;
+	font-weight: 600;
+	border-radius: 3px;
+	position: relative;
+	
+}
+
+.testim .person .person-info:after {
+	
+    margin: 0 auto -72px auto;
+    content: "";
+    width: 0;
+    display: block;
+    border-width: 40px 30px 30px 30px;
+    border-style: solid;
+    border-color: #fff transparent transparent transparent;
+	
+}
+
+
+.testim .person .person-info h3 {
+	
+	font-weight: bold;	
+	
+}
+
+.testim .person .person-info p {
+	
+	color: #666;
+	
+}
+
+.testim .person .person-img {
+	
+    font-size: 13px;
+    color: #dfdfdf;
+	font-weight: 700;
+	
+}
+
+.testim .person .person-img p:nth-of-type(2) {
+	
+	color: #999;
+	
+}
+
+.testim .person .person-img img {
+	
+	border-radius: 50%;
+	display: block;
+	margin: auto;
+	margin-bottom: 10px;
+	
+}
+
+
+
+.testim .person .person-info p span {
+	
+    font-size: 16px;
+    color: #222;
+	
+}
+
+
+/** End Testimonials Section **/
+
+
+/** Start Health Section **/
+
+.health {
+	
+	background-color: #fafafa;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	
+}
+
+.health .health-item {
+	
+	margin-top: 60px;
+	-webkit-transition: all 0.5s ease-in-out;
+	-moz-transition: all 0.5s ease-in-out;
+	-o-transition: all 0.5s ease-in-out;
+	transition: all 0.5s ease-in-out;
+	
+}
+
+.health .health-item h4 {
+	
+	background-color: #666;
+	color: #ddd;
+	padding: 20px;
+	margin: 0;
+	-webkit-transition: all 0.5s ease-in-out;
+	-moz-transition: all 0.5s ease-in-out;
+	-o-transition: all 0.5s ease-in-out;
+	transition: all 0.5s ease-in-out;
+	
+}
+
+.health .health-item p {
+	
+	font-weight: 700;
+	border-bottom: 1px solid #ddd;
+	padding: 20px;
+	margin: 0;
+	overflow: hidden;
+	-webkit-transition: all 0.5s ease-in-out;
+	-moz-transition: all 0.5s ease-in-out;
+	-o-transition: all 0.5s ease-in-out;
+	transition: all 0.5s ease-in-out;
+	
+}
+
+.health .health-item p i {
+	
+	float: right;
+	
+}
+
+.health .health-item p:nth-of-type(5):not(.except), .health .health-item p:nth-of-type(6) {
+	
+	border-bottom: none;
+	color: #c6c4c2;
+	
+}
+
+.health .health-item p:nth-of-type(6) {
+	
+	color: #333
+	
+}
+
+
+.health .health-item p:nth-of-type(1) {
+	
+	color: #fff;
+	font-size: 20px;
+	background-color: #444;	
+	padding: 20px;
+	
+}
+
+.purch-btn {
+	
+	margin-top: 30px;
+	background-color: #f7f7f7;
+	padding: 25px;
+	-webkit-transition: all 0.5s ease-in-out;
+	-moz-transition: all 0.5s ease-in-out;
+	-o-transition: all 0.5s ease-in-out;
+	transition: all 0.5s ease-in-out;
+	
+}
+
+.purch-btn button {
+	
+	font-weight: 700;
+	background-color: #3fbbc0;
+	color: #fff;
+	border: #3fbbc0;
+	border-radius: 3px;
+	padding: 10px;
+	width: 150px;
+	
+}
+
+
+.health-item:hover {
+	
+	-webkit-transform: scale(1.1);
+	-moz-transform: scale(1.1);
+	-o-transform: scale(1.1);
+	transform: scale(1.1);
+	
+}
+
+.health-item:hover h4 {
+	
+	background-color: #3fbbc0;
+	
+}
+
+.health-item:hover p:nth-of-type(1) {
+	
+	background-color: #4accd1;
+	
+}
+
+.health-item:hover .purch-btn {
+	
+	background-color: #3fbbc0;
+	
+}
+
+
+.health-item:hover .purch-btn button {
+	
+	background-color: #4accd1;
+	
+}
+
+
+/** End Health Section **/
+
+
+/** Start Partner Section **/
+
+
+.partner {
+	
+	margin-top: 100px;
+	
+}
+
+.partner .partner-item  h3 {
+	
+	font-weight: 600;
+	color: #d9d9d9;
+	margin-top: 60px;
+	
+}
+
+.partner .partner-item  h3 i {
+	
+	margin-right: 5px;
+	
+}
+
+
+/** End Partner Section **/
+
+
+
+/** Start information Section **/
+
+
+.information {
+	
+	margin-top: 80px;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	background-color: #f2f2f2;
+	
+}
+
+.information h2 {
+	
+	font-size: 25px;
+	
+}
+
+.information h2, .information h3 {
+	
+	font-weight: 600;
+	color: #555;
+	
+}
+
+.information p {
+	
+	font-weight: 400;
+	color: #525252;
+	
+	
+}
+
+.information li {
+	
+	margin-bottom: 7px;
+	
+}
+
+.information .information-item:nth-of-type(1) li a {
+	
+	color: #525252;
+	-webkit-transition: all 0.5s ease-in-out;
+	-moz-transition: all 0.5s ease-in-out;
+	-o-transition: all 0.5s ease-in-out;
+	transition: all 0.5s ease-in-out;
+	font-weight: 600;
+	
+}
+
+.information .information-item:nth-of-type(1) li a:hover {
+	
+	color: #ccc;
+	
+}
+
+.information-box {
+	
+	overflow: hidden;
+	margin-bottom: 10px;
+	
+}
+
+.information-box:nth-of-type(1) {
+	
+	margin-top: 20px;
+	
+}
+
+.information .information-item .information-box i {
+	
+    float: left;
+    margin-right: 5px;
+    color: #fff;
+    background-color: #525252;
+    width: 35px;
+    height: 35px;
+    line-height: 35px;
+    text-align: center;
+    border-radius: 50%;
+    font-size: 20px;
+	
+}
+
+.information .information-item .information-box p {
+	
+	float: left;
+	margin-top: 7px;
+	
+}
+
+.social-box ul li {
+	
+	float: left;
+	margin-right: 10px;
+    font-size: 15px;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    border-radius: 2px;
+	
+}
+
+.social-box ul li a i{
+	
+	color: #fff;
+	
+}
+
+.social-box ul li:nth-of-type(1) {
+	
+	background-color: #3b5998;
+	
+}
+
+.social-box ul li:nth-of-type(2) {
+	
+	background-color: #1da1f2;
+	
+}
+
+.social-box ul li:nth-of-type(3) {
+	
+	background-color: #dd4b39;
+	
+}
+
+.social-box ul li:nth-of-type(4) {
+	
+	background-color: #1ab7ea;
+	
+}
+
+.social-box ul li:nth-of-type(5) {
+	
+	background-color: #ea4c89;
+	
+}
+
+
+/** End information Section **/
+
+
+/** Start footer Section **/
+
+.footer {
+	
+	background-color: #fff;
+	font-weight: bold;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	
+}
+
+.footer p {
+	
+	display: inline-block;
+	
+}
+
+/** End footer Section **/
+
+
+@media (max-width: 566px) {
+	
+	.call-us p:nth-of-type(2) {
+		
+		float: left;
+		
+	}
+	
+	.footer p:nth-of-type(2) {
+		
+		float: left;
+		
+	}
+	
+}
+
+@media (max-width: 992px) {
+
+	.header .make-form {
+
+		margin-bottom: 50px;
+
+	}
+
+
+}
+
+
